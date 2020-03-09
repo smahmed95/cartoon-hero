@@ -5,6 +5,8 @@ body{
 	line-height: 30px;
 }
 
+/*header styles*/
+
 header{
 	background-color: #505c7c;
 	text-align: center;
@@ -36,6 +38,14 @@ h1, h2{
 	font-family: 'Titillium Web', sans-serif;
 }
 
+h2{
+	font-size: 35px;
+	color: #282e3c;
+	margin: 40px 0 10px;
+}
+
+/*main styles*/
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -44,12 +54,6 @@ main{
 
 main img{
 	max-width: 100%;
-}
-
-h2{
-	font-size: 35px;
-	color: #282e3c;
-	margin: 40px 0 10px;
 }
 
 a{
@@ -63,6 +67,8 @@ a:hover{
 	font-size: 25px;
 
 }
+
+/*footer styles*/
 
 footer{
 	background-color: #505c7c;
